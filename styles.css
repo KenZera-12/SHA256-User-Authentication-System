@@ -1,0 +1,41 @@
+.form-holder {
+  padding: 20px;
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.login{
+  width: 25%;
+}
+
+img {
+  width: 50%;
+  margin: 30px;
+}
+
+.btn {
+  margin-top: 15px;
+}
+
+.home {
+  position: fixed;
+  right: 100px;
+  top: -3px;
+}
+
+a {
+  padding: 40px;
+}
+
+
+footer {
+  position: fixed;
+  bottom: 20px;
+  right: 900px;
+  text-align: center;
+}
